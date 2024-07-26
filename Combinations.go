@@ -1,7 +1,9 @@
-// combination.go
-// combination.go
-
-// Package main provides a demonstration of using a combination of literal characters and metacharacters in regular expressions.
+//Filename: Combinatons.go
+////////////////////////////////////////////////////////////////////////////////////////////
+// Package main provides a demonstration of using metacharacters in regular expressions.  //
+// Imports: 1. fmt base pakage.                                                           //
+//          2. regexp pakage for regular expression.                                      //
+////////////////////////////////////////////////////////////////////////////////////////////
 package main
 
 import (
