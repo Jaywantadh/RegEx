@@ -1,12 +1,12 @@
-# Regular Expression Demonstrations in Go
+# Regular Expression and Patternmatching Computations with Golang
 
 This repository contains Go programs that demonstrate the usage of regular expressions with literal characters, metacharacters, and their combinations. Each program showcases how different patterns match or do not match various test strings.
 
 ## Files
 
-1. `literal_characters.go`
-2. `metacharacters.go`
-3. `combination.go`
+1. `LiteralCharacters.go`
+2. `Metacharacters.go`
+3. `Combination.go`
 
 ### `literal_characters.go`
 
@@ -54,6 +54,6 @@ This program demonstrates the use of a combination of literal characters and met
 To run the programs, use the following commands:
 
 ```sh
-go run literal_characters.go
-go run metacharacters.go
-go run combination.go
+go run LiteralCharacters.go
+go run Metacharacters.go
+go run Combination.go
