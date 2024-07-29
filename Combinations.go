@@ -1,6 +1,7 @@
 //Filename: Combinatons.go
 ////////////////////////////////////////////////////////////////////////////////////////////
-// Package main provides a demonstration of using metacharacters in regular expressions.  //
+// Package main provides a demonstration of using combinations of Litralcharacters and    //
+// Metacharacters in regular expressions.                                                 //
 // Imports: 1. fmt base pakage.                                                           //
 //          2. regexp pakage for regular expression.                                      //
 ////////////////////////////////////////////////////////////////////////////////////////////
